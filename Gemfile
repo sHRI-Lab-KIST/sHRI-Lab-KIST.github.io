@@ -1,5 +1,5 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
-gem "jekyll"
-gem "jekyll-paginate"
-gem "support-for"
+gem 'rouge'
+gem 'jekyll'
+gem 'jemoji'
