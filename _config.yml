@@ -40,12 +40,12 @@ email: choitm0707@kist.re.kr
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/choitm0707" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://sHRI-Lab-KIST.github.io" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
-github_url: https://github.com/choitm0707
+github_url: https://github.com/sHRI-Lab-KIST
 googleplus_url:
 instagram_url:
 linkedin_url:

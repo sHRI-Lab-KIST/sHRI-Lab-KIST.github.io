@@ -5,14 +5,25 @@ icon: fa-envelope
 order: 5
 ---
 
-Jekyll is a great tool to create static sites, but there’s no backend to send your data to.
+If you are having any problems, any questions or suggestions, feel free to send an e-mail.
 
-However, you can use free SaaS as a backend for forms, such as [Formspree](https://formspree.io/) to handle form submissions. Sleek has a configured form using formspree ready for you. All you have to do is change the email in `_js/scripts.js` and `.config.yml`. 
+### Address
 
-Check the form below to see it in action!
+KIST(Korea Institute of Science and Techonology)
 
-### Example Formspree contact form with validation and reCaptcha
+L8421, 5, Hwarang-ro 14-gil, Seongbuk-gu, Seoul, Republic of Korea
 
-Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
+### Email
 
+choitm0707@kist.re.kr
+
+### Phone
+
+(02)-958-6815
+
+### Social Media
+
+test
+
+### Map???
 
