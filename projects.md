@@ -4,6 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 title: Projects
-icon: fa-home
+icon: fa-caret-right
 order: 3
 ---

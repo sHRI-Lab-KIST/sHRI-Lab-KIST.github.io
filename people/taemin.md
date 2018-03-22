@@ -1,8 +1,7 @@
 ---
 title: Contact
 layout: "page"
-icon: fa-caret-right
-order: 5
+hide: True
 ---
 
 If you are having any problems, any questions or suggestions, feel free to send an e-mail.
@@ -20,3 +19,10 @@ choitm0707@kist.re.kr
 ### Phone
 
 (02)-958-6815
+
+### Social Media
+
+test
+
+### Map???
+
