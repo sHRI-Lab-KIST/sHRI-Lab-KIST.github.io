@@ -9,9 +9,7 @@ If you are having any problems, any questions or suggestions, feel free to send 
 
 ### Address
 
-KIST(Korea Institute of Science and Techonology)
-
-L8421, 5, Hwarang-ro 14-gil, Seongbuk-gu, Seoul, Republic of Korea
+KIST(Korea Institute of Science and Techonology) <br/>L8421, 5, Hwarang-ro 14-gil, Seongbuk-gu, Seoul, Republic of Korea
 
 ### Email
 
