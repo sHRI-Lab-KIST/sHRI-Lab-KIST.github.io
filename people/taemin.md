@@ -4,25 +4,32 @@ layout: "page"
 hide: True
 ---
 
-If you are having any problems, any questions or suggestions, feel free to send an e-mail.
+### Overview
 
-### Address
-
-KIST(Korea Institute of Science and Techonology)
+Ph.D, Principal Researcher KIST(Korea Institute of Science and Techonology)
 
 L8421, 5, Hwarang-ro 14-gil, Seongbuk-gu, Seoul, Republic of Korea
 
-### Email
+### Research Interests
 
 choitm0707@kist.re.kr
 
-### Phone
+### Career
+
+1111
+
+- 222
+- 222
+- 22
 
 (02)-958-6815
 
-### Social Media
+### Publications
 
-test
+이건 엔터를 사용한 줄바꿈
 
-### Map???
+이건 엔터를 사용한 줄바꿈(위 공백 크기 보이시죠?)
 
+
+
+다음은 `<br>`태그를 이용한 줄바꿈<br>다음은 `<br>`태그를 이용한 줄바꿈 (보이시나요....??)
