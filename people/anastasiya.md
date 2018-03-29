@@ -1,28 +1,27 @@
 ---
-title: Contact
+title: Anastasiya Rybakova
 layout: "page"
 hide: True
 ---
 
-If you are having any problems, any questions or suggestions, feel free to send an e-mail.
 
-### Address
 
-KIST(Korea Institute of Science and Techonology)
+**Internship Student**<br>Korea Institute of Science and Technology<br>Center for Robotics Research
 
-L8421, 5, Hwarang-ro 14-gil, Seongbuk-gu, Seoul, Republic of Korea
+### Contact
 
-### Email
+Email : rav94@live.ru<br>Office : International Cooperation Building L8421
 
-choitm0707@kist.re.kr
+### Research Interests
 
-### Phone
+- Robot's Behavior
 
-(02)-958-6815
+### Education
 
-### Social Media
+Mechanical Engineering, Pavel Sukhoi Gomel State Technical University (B.E. 2016)
 
-test
+Machinery Manufacturing and Engineering Science, Pavel Sukhoi Gomel State Technical University (M.S. 2017)
 
-### Map???
+### Publications
 
+Yet...
