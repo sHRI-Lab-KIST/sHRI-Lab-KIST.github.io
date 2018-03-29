@@ -1,35 +1,27 @@
 ---
-title: Contact
+title: Taemin Choi
 layout: "page"
 hide: True
 ---
 
-### Overview
+![test]({{ site.url }}/assets/images/people/taemin.jpg){: width="100" height="150"}
 
-Ph.D, Principal Researcher KIST(Korea Institute of Science and Techonology)
+**M.S. Student**<br>Korea University<br>Mechanical Engineering<br>Korea Institute of Science and Technology<br>Center for Robotics Research
 
-L8421, 5, Hwarang-ro 14-gil, Seongbuk-gu, Seoul, Republic of Korea
+### Contact
+
+Email : choitm0707@kist.re.kr<br>Office : International Cooperation Building L8421
 
 ### Research Interests
 
-choitm0707@kist.re.kr
+- Semantic Mapping
+- Social Navigation
+- Machine Learning
 
-### Career
+### Education
 
-1111
-
-- 222
-- 222
-- 22
-
-(02)-958-6815
+Mechanical & Automotive Engineering, Seoul National University of Science and Technology(B.E. 2018)
 
 ### Publications
 
-이건 엔터를 사용한 줄바꿈
-
-이건 엔터를 사용한 줄바꿈(위 공백 크기 보이시죠?)
-
-
-
-다음은 `<br>`태그를 이용한 줄바꿈<br>다음은 `<br>`태그를 이용한 줄바꿈 (보이시나요....??)
+Yet...
