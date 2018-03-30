@@ -1,28 +1,26 @@
 ---
-title: Contact
+title: Taemin Choi
 layout: "page"
 hide: True
 ---
 
-If you are having any problems, any questions or suggestions, feel free to send an e-mail.
+![test]({{ site.url }}/assets/images/people/hyeonukbhin.jpg){: width="100" height="150"}
 
-### Address
+**Integrated Cource Student**<br>University of Science and technology<br>Division of Nano & Information Technology(HCI & Robotics)<br>Korea Institute of Science and Technology<br>Center for Robotics Research
 
-KIST(Korea Institute of Science and Techonology)
+### Contact
 
-L8421, 5, Hwarang-ro 14-gil, Seongbuk-gu, Seoul, Republic of Korea
+Email : bhu@kist.re.kr<br>Office : International Cooperation Building L8421
 
-### Email
+### Research Interests
 
-choitm0707@kist.re.kr
+- Personality Recognition Homepage, [Github-Repository](https://github.com/hyeonukbhin/personality_recognition.git)
+- Knowledge Management, [Github-Repository](https://github.com/hyeonukbhin/knowledge_management.git) 
+- Social Perception for Robot
+- Robot Framework for HRI, [Github-Repository](https://github.com/deep-task/KIST_Integration.git)
 
-### Phone
+### Education
 
-(02)-958-6815
+Electronic Engineering, Chonbuk National University (B.E. 2015)
 
-### Social Media
-
-test
-
-### Map???
-
+### Publications
