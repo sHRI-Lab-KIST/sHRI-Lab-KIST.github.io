@@ -1,28 +1,28 @@
 ---
-title: Contact
+title: Gyeore Lee
 layout: "page"
 hide: True
 ---
 
-If you are having any problems, any questions or suggestions, feel free to send an e-mail.
+![test]({{ site.url }}/assets/images/people/gyeore.jpg){: width="100" height="150"}
 
-### Address
+**MS-PhD. Student**<br>Kist School, Korea  University of Science and Technology<br>Division of Nano & Information Technology <br>HCI & Robotics<br>Center for Robotics Research
 
-KIST(Korea Institute of Science and Techonology)
+### Contact
 
-L8421, 5, Hwarang-ro 14-gil, Seongbuk-gu, Seoul, Republic of Korea
+Email : lkrrufp@kist.re.kr<br>Office : International Cooperation Building L8421
 
-### Email
+### Research Interests
 
-choitm0707@kist.re.kr
+- Social Human-Robot Interaction
+- Computer Vision
+- Multi-modal Information Fusion
 
-### Phone
+### Education
 
-(02)-958-6815
+Information Communication and Electoronic Engineering, Catholic University of Korea (B.E. 2016)
 
-### Social Media
+### Publications
 
-test
-
-### Map???
-
+1. Gyeore Lee, bokyoung Lee, Yoonseob Lim and Jongsuk Choi, " Kalman Filter Based Multiple Human Tracking Method in Multi-Camera Environment", 17th International Conference on Control ,Automation and Systems
+2. Gyeore Lee, Yoonseob Lim and Jongsuk Choi, "Automatic Data Gathering System for Social Dialog", HRI2018
