@@ -9,7 +9,7 @@ If you are having any problems, any questions or suggestions, feel free to send 
 ### Contact
 
 Email: cwpark@kist.re.kr <br>
-Office: International Cooperation Building L8401, KIST(Korea Institute of Science and Techonology), <br>
+Office: International Cooperation Building L8401, KIST(Korea Institute of Science and Techonology) <br>
 Phone: (02)958-6815
 
 ### Research Interests
