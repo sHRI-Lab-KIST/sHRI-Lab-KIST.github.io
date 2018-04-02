@@ -1,28 +1,27 @@
 ---
-title: Contact
+title: Chaewon Park
 layout: "page"
 hide: True
 ---
 
 If you are having any problems, any questions or suggestions, feel free to send an e-mail.
 
-### Address
+### Contact
 
-KIST(Korea Institute of Science and Techonology)
+Email: cwpark@kist.re.kr
+Office: International Cooperation Building L8401, KIST(Korea Institute of Science and Techonology),
+        5, Hwarang-ro 14-gil, Seongbuk-gu, Seoul, Republic of Korea
+Phone: (02)958-6815
 
-L8421, 5, Hwarang-ro 14-gil, Seongbuk-gu, Seoul, Republic of Korea
+### Research Interests
 
-### Email
+NLP, Machine learning, HRI
 
-choitm0707@kist.re.kr
 
-### Phone
+### Education
 
-(02)-958-6815
+- Thai & Business Administration (double major), Hankuk University of Foreign Studies (B.S.)
+- Communication Disorders, EWHA Womans University (M.S.)
 
-### Social Media
-
-test
-
-### Map???
-
+### Publications
+Oh, S. J., Eom, B., Park, C., & Sung, J. E. (2016). Treatment Efficacy of Semantic Feature Analyses for Persons with Aphasia: Evidence from Meta-Analyses. Communication Sciences & Disorders, 21(2), 310-323.
