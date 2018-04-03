@@ -18,8 +18,10 @@ order: 2
 사회적 인간-로봇 상호작용을 위한 심층이해 기반의 지식 및 태스크 모델링
 (Deep understanding-based modeling of Task and Knowledge For Social human-robot interaction)
 * 사회성(Sociality)
-* 사회적 상호작용(social Interaction)
-<br><br><br><br><br><br><br><br><br>
+* [사회적 상호작용(Social Interaction)](#사회적-상호작용)
+
+<br><br><br><br>
+
 
 <p>
 <div class=pull-right>
@@ -32,24 +34,46 @@ order: 2
 사회적 인간-로봇 상호작용을 위한 심층이해 기반의 지식 및 태스크 모델링
 (Deep understanding-based modeling of Task and Knowledge For Social human-robot interaction)
 
-<br><br><br><br><br><br><br><br><br>
+* [1st Demo Video #1](#1st-year-Demo-Video-of-DeepTask-Project-#1)
+* [1st Demo Video #2](#1st-year-Demo-Video-of-DeepTask-Project-#2)
 
+<br><br><br><br>
+
+## Reference Repository(Private)
+If you are interested in these sources, Please send mail to the following address.
+- Personality Recognition for Social Perception, [Github-Repository](https://github.com/hyeonukbhin/personality_recognition.git)
+- Robot Framework for HRI, [Github-Repository](https://github.com/deep-task/KIST_Integration.git)
+
+### Contact
+[Hyeonuk Bhin](https://shri-lab-kist.github.io/people/hyeonuk) : [e-mail](bhu@kist.re.kr)
+
+<br><br><br><br>
+
+## Ref. Video
+### 사회적 상호작용
 <html>
 <head></head>
 <body>
-<iframe width="480" height="270" src="https://www.youtube.com/embed/izWTNqkV3Hc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/41vgdFtI2x0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
-##
-https://youtu.be/41vgdFtI2x0
-https://youtu.be/j9QfbKn_smc
-https://youtu.be/izWTNqkV3Hc
 
-##
+### 1st year Demo Video of DeepTask Project #1
+<html>
+<head></head>
+<body>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/j9QfbKn_smc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
-* [하루 전의 커밋으로 체크아웃하기](#하루-전의-커밋으로-체크아웃하기)
+### 1st year Demo Video of DeepTask Project #2
+<html>
+<head></head>
+<body>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/izWTNqkV3Hc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
 
-## 하루 전의 커밋으로 체크아웃하기
 
 
 This Jekyll theme lets you build as many of these sections as you want. They live in the _sections folder in your project's root directory. For some examples, see the [GitHub repository](https://github.com/chrisbobbe/jekyll-theme-prologue). Just be sure to add some [frontmatter](https://jekyllrb.com/docs/frontmatter/) to each section.
