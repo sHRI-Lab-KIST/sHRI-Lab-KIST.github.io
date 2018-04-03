@@ -1,7 +1,7 @@
 ---
-title: SIMONPIC
+title: DeepTask
 icon: fa-spinner
-order: 6
+order: 2
 ---
 
 # About DeepTask
