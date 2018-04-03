@@ -18,15 +18,15 @@ Email : cjs@kist.re.kr<br>Office : L8402, International Cooperation Building, KI
   - [Robust sound localization system](https://www.youtube.com/watch?v=tpK9fkW6-_I&feature=youtu.be)
   - [Multi-modal target sound localization](https://www.youtube.com/watch?v=9u-m23wqMyc&feature=youtu.be)
   - [Sound localization for intelligent Security CAMera(ISCAM)](https://www.youtube.com/watch?v=lef1klWJjVI&feature=youtu.be)
-  - [Sound localization system for outdoor ISCAM](https://www.youtube.com/watch?v=UwTmewhAUog&feature=youtu.be)
+  - [Sound localization system for outdoor ISCAM](https://www.youtube.com/watch?v=UwTmewhAUog&feature=youtu.be)<br>
 - Perception for Human-Robot Interaction
   - [(SimonPiC) Sensor network based multiple-human perception (3W : Where, Who, What) for HR](https://www.youtube.com/watch?v=lS8MFYz1gkM&feature=youtu.be)
   - [(SimonPiC) Final demo for 3W integration](https://www.youtube.com/watch?v=3sjWdq6P_hY&feature=youtu.be)
   - [(SimonPiC) A/V integrated 3W (w/ ssl+ssc)](https://www.youtube.com/watch?v=5HQN7ihOi80&feature=youtu.be)
-  - [(SimonPiC) Service - Emergency handling based on SimonPiC's 3W engine](https://www.youtube.com/watch?v=pHfZKAX6FWU&feature=youtu.be)
+  - [(SimonPiC) Service - Emergency handling based on SimonPiC's 3W engine](https://www.youtube.com/watch?v=pHfZKAX6FWU&feature=youtu.be)<br>
 - Multi-agent Robots
   - [Sound localization based Leader-following](https://www.youtube.com/watch?v=Nul2ZiTISIY&feature=youtu.be)
-  - [Tracking a leader robot with pan camera module in gimbal](https://www.youtube.com/watch?v=tOdhuXXdPUg&feature=youtu.be)
+  - [Tracking a leader robot with pan camera module in gimbal](https://www.youtube.com/watch?v=tOdhuXXdPUg&feature=youtu.be)<br>
 - Social Human-Robot Interaction
   - [Cube and Robot in Education (CURE)](https://www.youtube.com/watch?v=8-GEQ7mnInc&feature=youtu.be)
 
@@ -35,7 +35,7 @@ Email : cjs@kist.re.kr<br>Office : L8402, International Cooperation Building, KI
 - B.S. in Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST) (1994)
 - M.S. in Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST) (1996)
 - Ph.D. in Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST) (2001)
-  - *Thesis : Trajectory Planning and Following for Mobile Robots with Current and Voltage Constraints*
+  - *Thesis : Trajectory Planning and Following for Mobile Robots with Current and Voltage Constraints*<br>
 - Visiting Researcher, Computer Science and Artificial Intelligence Lab (CSAIL), MIT (2004)
 
 ### Publications 
