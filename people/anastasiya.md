@@ -18,10 +18,7 @@ Email : rav94@live.ru<br>Office : International Cooperation Building L8421
 
 ### Education
 
-Mechanical Engineering, Pavel Sukhoi Gomel State Technical University (B.E. 2016)
-
-Machinery Manufacturing and Engineering Science, Pavel Sukhoi Gomel State Technical University (M.S. 2017)
+- B.S. in Mechanical Engineering at Pavel Sukhoi Gomel State Technical University (2016)
+- M.S. in Machinery Manufacturing and Engineering Science at Pavel Sukhoi Gomel State Technical University (2017)
 
 ### Publications
-
-Yet...
