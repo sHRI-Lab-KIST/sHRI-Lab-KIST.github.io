@@ -4,7 +4,7 @@ layout: "page"
 hide: True
 ---
 
-<img src="../assets/images/people/hyeonukbhin.jpg" width="120" height="150">
+![picture]({{ site.url }}/assets/images/people/hyeonuk.jpg){: width="200" height="300"}
 
 **Integrated Cource Student**<br>University of Science and technology<br>Division of Nano & Information Technology(HCI & Robotics)<br>Korea Institute of Science and Technology<br>Center for Robotics Research
 
@@ -21,6 +21,6 @@ Email : bhu@kist.re.kr<br>Office : International Cooperation Building L8421
 
 ### Education
 
-Electronic Engineering, Chonbuk National University (B.E. 2015)
+- B.S. In Electronic Engineering at Chonbuk National University (2015)
 
 ### Publications

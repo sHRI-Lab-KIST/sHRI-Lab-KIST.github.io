@@ -1,28 +1,25 @@
 ---
-title: Contact
+title: Hwawoo Jeon
 layout: "page"
 hide: True
 ---
 
-If you are having any problems, any questions or suggestions, feel free to send an e-mail.
+![test]({{ site.url }}/assets/images/people/hwawoo.jpg){: width="200" height="300"}
 
-### Address
+**Commissioned  Researchers**<br>Korea Institute of Science and Technology<br>Center for Robotics Research
 
-KIST(Korea Institute of Science and Techonology)
+### Contact
 
-L8421, 5, Hwarang-ro 14-gil, Seongbuk-gu, Seoul, Republic of Korea
+Email: feelgood88@kist.re.kr <br>
+Office: L8401, International Cooperation Building, KIST(Korea Institute of Science and Technology) <br>
+Phone: (02)958-4864
 
-### Email
+### Research Interests
 
-choitm0707@kist.re.kr
+- Ontology for Elderly with Dementia
+- Computer vision
+- HRI(Human-Robot Interaction)
 
-### Phone
+### Career
 
-(02)-958-6815
-
-### Social Media
-
-test
-
-### Map???
-
+### Publications

@@ -4,7 +4,7 @@ layout: "page"
 hide: True
 ---
 
-![test]({{ site.url }}/assets/images/people/gyeore.jpg){: width="100" height="150"}
+![picture]({{ site.url }}/assets/images/people/gyeore.png){: width="200" height="300"}
 
 **MS-PhD. Student**<br>Kist School, Korea  University of Science and Technology<br>Division of Nano & Information Technology <br>HCI & Robotics<br>Center for Robotics Research
 
@@ -20,7 +20,7 @@ Email : lkrrufp@kist.re.kr<br>Office : International Cooperation Building L8421
 
 ### Education
 
-Information Communication and Electoronic Engineering, Catholic University of Korea (B.E. 2016)
+- B.S. in Information Communication and Electoronic Engineering at Catholic University of Korea (2016)
 
 ### Publications
 

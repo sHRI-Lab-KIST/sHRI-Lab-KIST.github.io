@@ -4,25 +4,27 @@ layout: "page"
 hide: True
 ---
 
-If you are having any problems, any questions or suggestions, feel free to send an e-mail.
+![test]({{ site.url }}/assets/images/people/jinhong.jpg){: width="200" height="300"}
 
-### Address
+**Commissioned  Researchers**<br>Korea Institute of Science and Technology<br>Center for Robotics Research
 
-KIST(Korea Institute of Science and Techonology)
+### Contact
 
-L8421, 5, Hwarang-ro 14-gil, Seongbuk-gu, Seoul, Republic of Korea
+Email: fini@kist.re.kr <br>
+Office: L8401, International Cooperation Building, KIST(Korea Institute of Science and Technology) <br>
+Phone: (02)958-4864
 
-### Email
+### Research Interests
 
-choitm0707@kist.re.kr
+- Mobile robot
+- Localization
+- Trajectory planning
+- Collision avoidance
 
-### Phone
+### Career
 
-(02)-958-6815
+- B.S. in Electronic Engineering at Inha University(2012)
+- Ph.D. in Robotics at Inha University(2016)
 
-### Social Media
-
-test
-
-### Map???
+### Publications
 
