@@ -12,8 +12,8 @@ order: 2
 <img src="../assets/images/project/deeptask/plan.png" width="600" alt="plan.png "border="0">
 </div>
 </p>
-<img src="../assets/images/project/deeptask/plan.png" width="600">
 
+<img src="../assets/images/project/deeptask/plan.png" width="900">
 
 ## What is the DeepTask?
 로봇-사용자간 사회적 상호작용 가능한 소셜 지능의 지식화, 인식, 표현 기술 및 서비스 패키지 생성 기술 개발
@@ -22,25 +22,21 @@ order: 2
 * 사회성(Sociality)
 * [사회적 상호작용(Social Interaction)](#사회적-상호작용)
 
-<br><br><br><br>
-
-
 <p>
 <div class=pull-right>
 <img src="../assets/images/project/deeptask/system_overview.png" width="600" alt="system_overview.png "border="0">
 </div>
 </p>
-<img src="../assets/images/project/deeptask/system_overview.png" width="600">
+
+<img src="../assets/images/project/deeptask/system_overview.png" width="900">
 
 ## System Structure
 로봇-사용자간 사회적 상호작용 가능한 소셜 지능의 지식화, 인식, 표현 기술 및 서비스 패키지 생성 기술 개발
 사회적 인간-로봇 상호작용을 위한 심층이해 기반의 지식 및 태스크 모델링
 (Deep understanding-based modeling of Task and Knowledge For Social human-robot interaction)
-
 * [1st Demo Video #1](#1st-year-Demo-Video-of-DeepTask-Project-#1)
 * [1st Demo Video #2](#1st-year-Demo-Video-of-DeepTask-Project-#2)
-
-<br><br><br><br>
+<br>
 
 ## Reference Repository(Private)
 If you are interested in these sources, Please send mail to the following address.
@@ -49,8 +45,7 @@ If you are interested in these sources, Please send mail to the following addres
 
 ### Contact
 [Hyeonuk Bhin](https://shri-lab-kist.github.io/people/hyeonuk) : [e-mail](bhu@kist.re.kr)
-
-<br><br><br><br>
+<br>
 
 ## Ref. Video
 ### 사회적 상호작용
@@ -68,6 +63,7 @@ If you are interested in these sources, Please send mail to the following addres
 <iframe width="640" height="360" src="https://www.youtube.com/embed/j9QfbKn_smc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
+<br>
 
 ### 1st year Demo Video of DeepTask Project #2
 <html>
@@ -76,8 +72,7 @@ If you are interested in these sources, Please send mail to the following addres
 <iframe width="640" height="360" src="https://www.youtube.com/embed/izWTNqkV3Hc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
-
-
+<br>
 
 This Jekyll theme lets you build as many of these sections as you want. They live in the _sections folder in your project's root directory. For some examples, see the [GitHub repository](https://github.com/chrisbobbe/jekyll-theme-prologue). Just be sure to add some [frontmatter](https://jekyllrb.com/docs/frontmatter/) to each section.
 
