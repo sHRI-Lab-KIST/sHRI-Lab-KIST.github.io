@@ -1,7 +1,6 @@
 ---
 title: DeepTask
 icon: fa-spinner
-layout: "page"
 order: 2
 ---
 
@@ -13,7 +12,7 @@ order: 2
 <img src="../assets/images/project/deeptask/plan.png" width="600" alt="plan.png "border="0">
 </div>
 </p>
-<img src="../assets/images/people/hyeonukbhin.jpg" width="120" height="150">
+<img src="../assets/images/project/deeptask/plan.png" width="600">
 
 
 ## What is the DeepTask?
@@ -31,6 +30,7 @@ order: 2
 <img src="../assets/images/project/deeptask/system_overview.png" width="600" alt="system_overview.png "border="0">
 </div>
 </p>
+<img src="../assets/images/project/deeptask/system_overview.png" width="600">
 
 ## System Structure
 로봇-사용자간 사회적 상호작용 가능한 소셜 지능의 지식화, 인식, 표현 기술 및 서비스 패키지 생성 기술 개발
