@@ -27,4 +27,4 @@ Phone: (02)958-4864
 - M.S. in Communication Disorders at EWHA Womans University(2018)
 
 ### Publications
-Oh, S. J., Eom, B., Park, C., & Sung, J. E. (2016). Treatment Efficacy of Semantic Feature Analyses for Persons with Aphasia: Evidence from Meta-Analyses. Communication Sciences & Disorders, 21(2), 310-323.
+1. Oh, S. J., Eom, B., Park, C., & Sung, J. E. (2016). Treatment Efficacy of Semantic Feature Analyses for Persons with Aphasia: Evidence from Meta-Analyses. Communication Sciences & Disorders, 21(2), 310-323.
