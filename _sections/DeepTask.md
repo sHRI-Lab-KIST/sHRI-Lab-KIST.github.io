@@ -1,6 +1,7 @@
 ---
 title: DeepTask
 icon: fa-spinner
+layout: "page"
 order: 2
 ---
 
@@ -12,6 +13,8 @@ order: 2
 <img src="../assets/images/project/deeptask/plan.png" width="600" alt="plan.png "border="0">
 </div>
 </p>
+<img src="../assets/images/people/hyeonukbhin.jpg" width="120" height="150">
+
 
 ## What is the DeepTask?
 로봇-사용자간 사회적 상호작용 가능한 소셜 지능의 지식화, 인식, 표현 기술 및 서비스 패키지 생성 기술 개발
