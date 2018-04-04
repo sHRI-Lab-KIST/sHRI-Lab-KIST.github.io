@@ -19,6 +19,6 @@ Email : choitm0707@kist.re.kr<br>Office : International Cooperation Building L84
 
 ### Education
 
-B.S. in Mechanical Engineering and Global Technology Management(Dual Major) at Seoul National University of Science and Technology(2018)
+- B.S. in Mechanical Engineering and Global Technology Management(Dual Major) at Seoul National University of Science and Technology(2018)
 
 ### Publications
