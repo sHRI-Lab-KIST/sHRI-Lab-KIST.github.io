@@ -6,15 +6,19 @@ order: 3
 
 ## What is the BCI?
 
-BCI는 우리가 진행하고 있는 과제의 약칭이며 과제명 전문은 다음과 같습니다.
+BCI(Brain-Computer Interface)는 우리가 진행하고 있는 과제의 약칭이며 과제명 전문은 다음과 같습니다.
 
-#### **"생각만으로 실생활 기기 및 AR/VR 디바이스를 제어하는 비침습 BCI 통합 뇌인지컴퓨팅 SW 플랫폼 기술 개발"**
+### **"생각만으로 실생활 기기 및 AR/VR 디바이스를 제어하는 비침습 BCI 통합 뇌인지컴퓨팅 SW 플랫폼 기술 개발"**
+
+
 
 우리 연구실은 위 과제에서 원격 로봇 BCI 제어 및 로봇 지능화 기술 개발 부분에 대해 연구중입니다.
 
-## System Architecture
+Determination of Local Goal for a Mobile Robot with Sporadic Human Commands of Tele-operation
 
-<br>
+This study is a probabilistic approach to overcome time delay for a mobile robot. The robot receives sporadic user input when using brain-computer interface. Related studies have been considered about various strategies to control the robot as intended. However, the most of experiments heavily depend on the driving environment because of the low information transfer rate. To solve this problem, we propose a probabilistic local goal determination method. Our approach accumulates user input sequence, and specifies it as a feasible path. Simulations in the room and on the track are provided. As a result, we show that the proposed method is robust to long time delay, and achieves the mission with fewer inputs.
+
+## System Architecture
 
 <img src="../assets/images/project/BCI/system_architecture_2.png" width="800">
 
@@ -24,21 +28,15 @@ BCI는 우리가 진행하고 있는 과제의 약칭이며 과제명 전문은 
 
 ## 이동 로봇 제어 기술 개발
 
-<br>
-
 ### 이동 로봇 기능 설계
-
-<br>
 
 <img src="../assets/images/project/BCI/functional_design.png" width="800"><br>
 
 ### 이동 로봇 제어 기술 개발 (새로운 접근법)
 
-<br>
-
 <img src="../assets/images/project/BCI/kist_approach.png" width="800"><br>
 
-#### BCI를 고려하여 시간지연에 강인한 이동 로봇 제어 기술 개발
+### BCI를 고려하여 시간지연에 강인한 이동 로봇 제어 기술 개발
 
 - 기존의 연구들은 입력에 따라 일정거리/일정각도만 움직임
 - 위에 나열한 접근법들은 로봇의 움직임을 제한하여 적은 데이터 전송량 혹은 시간지연에 대응하도록 함
