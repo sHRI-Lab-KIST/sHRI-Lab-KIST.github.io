@@ -23,7 +23,7 @@ Phone: (02)958-4864
 ### Career
 
 - B.A. in Industrial Design and Consumer Science at Ewha Womans University (2013)
-- M.A. in Industrial Design at Ewha Womans University (2016) <br>- *Thesis : "TheEffect of Interaction Design Types of Intelligent Products on User’sPerception”*()<br>- *Advisor : Sonya S. Kwak*
+- M.A. in Industrial Design at Ewha Womans University (2016) <br>- *Thesis : "TheEffect of Interaction Design Types of Intelligent Products on User’sPerception”*<br>- *Advisor : Sonya S. Kwak*
 - Ph.D. Candidate in Industrial Design at Ewha Womans University 
 
 ### Publications
