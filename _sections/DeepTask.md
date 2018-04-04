@@ -6,9 +6,13 @@ order: 2
 
 # About DeepTask
 
-## What is the DeepTask?
-<img src="../assets/images/project/deeptask/plan.png" width="900">
+<p>
+<div class=pull-right>
+<img src="../assets/images/project/deeptask/plan.png" width="900" alt="plan.png "border="0">
+</div>
+</p>
 
+## What is the DeepTask?
 DeepTask는 로봇-사용자간 사회적 상호작용 가능한 소셜 지능의 지식화, 인식, 표현 기술 및 서비스 패키지 생성 기술 개발을 목적으로 하는 프로젝트입니다.
 로봇이 사회적 단서 해독 능력을 갖고, 사회성 모델에 근거해 현재의 환경을 이해하고, 사회적인 의사 표현을 하기 위한 방법을 제시합니다.
 
@@ -18,9 +22,13 @@ We propose a system for robot to do social perception, understand a environment 
 * 사회성(Sociality) : 환경에 적합한 행동을 나타내는 적응 과정(Adaptation process that represents the behavior appropriate for a environment)
 * [사회적 상호작용(Social Interaction)](#사회적-상호작용) : 자신과 타인의 사회도덕적 관계, 사회 제도를 이해하고 상호작용 하는것(Interaction with social norms and understanding relationship between self and others)
 
-## System Structure
-<img src="../assets/images/project/deeptask/system_overview.png" width="900">
+<p>
+<div class=pull-right>
+<img src="../assets/images/project/deeptask/system_overview.png" width="900" alt="system_overview.png "border="0">
+</div>
+</p>
 
+## System Structure
 사회적 인간-로봇 상호작용을 위한 심층이해 기반의 지식 및 태스크 모델링 시스템.
 아래는 시스템 내 각각 모듈들의 연구 기관입니다.
 
