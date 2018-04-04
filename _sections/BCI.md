@@ -4,9 +4,7 @@ icon: fa-spinner
 order: 3
 ---
 
-## About BCI
-
-### What is the BCI?
+## What is the BCI?
 
 BCI는 우리가 진행하고 있는 과제의 약칭이며 과제명 전문은 다음과 같습니다.
 
@@ -14,7 +12,9 @@ BCI는 우리가 진행하고 있는 과제의 약칭이며 과제명 전문은 
 
 우리 연구실은 위 과제에서 원격 로봇 BCI 제어 및 로봇 지능화 기술 개발 부분에 대해 연구중입니다.
 
-## System Architecture<br>
+## System Architecture
+
+<br>
 
 <img src="../assets/images/project/BCI/system_architecture_2.png" width="800">
 
@@ -24,11 +24,17 @@ BCI는 우리가 진행하고 있는 과제의 약칭이며 과제명 전문은 
 
 ## 이동 로봇 제어 기술 개발
 
-### 이동 로봇 기능 설계<br>
+<br>
+
+### 이동 로봇 기능 설계
+
+<br>
 
 <img src="../assets/images/project/BCI/functional_design.png" width="800"><br>
 
-### 이동 로봇 제어 기술 개발 (새로운 접근법)<br>
+### 이동 로봇 제어 기술 개발 (새로운 접근법)
+
+<br>
 
 <img src="../assets/images/project/BCI/kist_approach.png" width="800"><br>
 
@@ -39,7 +45,7 @@ BCI는 우리가 진행하고 있는 과제의 약칭이며 과제명 전문은 
   - 일단 전진하고, 정면에 장애물이 있으면 정지하는 전략을 사용
   - 시간지연을 예측하고, 시간지연이 길어지면 속도를 낮추어 사용자가 원격지의 상황에 따라올 수 있도록 함
 
-효율적인 BCI 경로계획을 위한 연구 필요<br>
+효율적인 BCI 경로계획을 위한 연구 필요
 
 왼쪽 부터 차례대로 
 
@@ -51,7 +57,13 @@ BCI는 우리가 진행하고 있는 과제의 약칭이며 과제명 전문은 
 
 ### 로봇 상태 관리 기능 개발
 
+<br>
+
 <img src="../assets/images/project/BCI/user_interface.png" width="800">
+
+<br>
+
+------
 
 ### Reference Video
 
