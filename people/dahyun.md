@@ -39,15 +39,15 @@ Phone: (02)958-4864
 - **Conference Paper**
   1.  **D. Kang**, S. Kim, S. S. Kwak (2018) The Effects of the Physical Contact in theFunctional Intimate Distance on User's Acceptance toward Robots, ACM/IEEE International Conference on Human-Robot Interaction (HRI), Chicago, IL, USA.
   2. **D. Kang**, MG Kim, S. S. Kwak (2017) The Effects of the Robot’s InformationDelivery Types on Users’ Perception toward the Robot, IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), Lisbon, Portugal.
-  3. **D. Kang**, S. S. Kwak (2017) Feel Me If You Can: The Effect of Robot Types andRobot's Tactility Types on Users' Perception toward a Robot, ACM/IEEEInternational Conference on Human-Robot Interaction (HRI), Vienna, Austria. Best Paper Award (Top2 in 144 submissions)
-  4. S. S. Kwak, **D. Kang** (2017) FacePartBot: The Interactive Face Components, ACM/IEEE International Conference on Human-Robot Interaction (HRI), Vienna, Austria. Best Paper Award (Top2 in 11 submissions)
+  3. **D. Kang**, S. S. Kwak (2017) Feel Me If You Can: The Effect of Robot Types andRobot's Tactility Types on Users' Perception toward a Robot, ACM/IEEEInternational Conference on Human-Robot Interaction (HRI), Vienna, Austria. **Best Paper Award (Top2 in 144 submissions)**
+  4. S. S. Kwak, **D. Kang** (2017) FacePartBot: The Interactive Face Components, ACM/IEEE International Conference on Human-Robot Interaction (HRI), Vienna, Austria. **Best Paper Award (Top2 in 11 submissions)**
   5. J. J. Choi, **H. Kang**, S. Song, J. S. Yun, S. S. Kwak (2016) How Much Do I Look Like a Human?: The Impact of the Response Types on People’s Perception of a Robot, IEEE/RSJ International Conference onIntelligent Robots and Systems (IROS), Daejeon, Korea.
-  6. **H. Kang**, MG Kim, S. S. Kwak (2016) How Much Should I Be Intelligent?: TheImpact of Autonomy Level of Intelligent Product, IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), NewYork, NY, USA. Best Paper Award (#1) 
+  6. **H. Kang**, MG Kim, S. S. Kwak (2016) How Much Should I Be Intelligent?: TheImpact of Autonomy Level of Intelligent Product, IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), NewYork, NY, USA. **Best Paper Award (#1)** 
   7. S. S. Kwak, **H. Kang**, H. Lee, C. Wu (2016) PaperBot: The intelligent paper toy, ACM/IEEE International Conference on Human-Robot Interaction (HRI), Christchurch, New Zealand.
 - **Workshop paper**
   1. **D. Kang**, S. Kim, S. S. Kwak (2018) Social Human-Robot Interaction DesignToolkit, ACM/IEEE International Conference on Human-Robot Interaction(HRI), Chicago, IL, USA.
   2. S. Kim, **D. Kang**, G. W. Kim, S. S. Kwak (2017) Verbal and Nonverbal Greetingsas a Unit of Social Interaction between Human and Robot, International Conference of Social Robot (ICSR), Tsukuba, Japan.
-  3. **H. Kang**, J. Y. Lee, M. G. Kim, S. S. Kwak (2015) The Effectof Synchronized Movement of the Tele-presence Robot on User’s Perception, Humanoids, Seoul, Korea.
+  3. **H. Kang**, J. Y. Lee, M. G. Kim, S. S. Kwak (2015) The Effectof Synchronized Movement of the Tele-presence Robot on User’s Perception, IEEE RAS International Conference on Humanoid Robots (Humanoids), Seoul, Korea.
   
 ### Patent
 
