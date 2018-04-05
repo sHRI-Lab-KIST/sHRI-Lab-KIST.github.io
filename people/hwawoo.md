@@ -4,7 +4,7 @@ layout: "page"
 hide: True
 ---
 
-![test]({{ site.url }}/assets/images/people/hwawoo.png){: width="200" height="300"}
+![test]({{ site.url }}/assets/images/people/hwawoo.png){: width="300" height="400"}
 
 **Commissioned  Researchers**<br>Center for Robotics Research<br>Convergence Research Center for Diagnosis, Treatment and Care System of Dementia<br>Korea Institute of Science and Technology(KIST)<br>
 
