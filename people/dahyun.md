@@ -42,7 +42,7 @@ Phone: (02)958-4864
   3. **D. Kang**, S. S. Kwak (2017) Feel Me If You Can: The Effect of Robot Types and Robot's Tactility Types on Users' Perception toward a Robot, ACM/IEEEInternational Conference on Human-Robot Interaction (HRI), Vienna, Austria. **Best Late Breaking Report Award (Top2 in 144 submissions)**
   4. S. S. Kwak, **D. Kang** (2017) FacePartBot: The Interactive Face Components, ACM/IEEE International Conference on Human-Robot Interaction (HRI), Vienna, Austria. **Best Demonstration Award (Top2 in 11 submissions)**
   5. J. J. Choi, **H. Kang**, S. Song, J. S. Yun, S. S. Kwak (2016) How Much Do I Look Like a Human?: The Impact of the Response Types on People’s Perception of a Robot, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Daejeon, Korea.
-  6. **H. Kang**, MG Kim, S. S. Kwak (2016) How Much Should I Be Intelligent?: The Impact of Autonomy Level of Intelligent Product, IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), NewYork, NY, USA. **Best Interactive Session Award (#1)** 
+  6. **H. Kang**, MG Kim, S. S. Kwak (2016) How Much Should I Be Intelligent?: The Impact of Autonomy Level of Intelligent Product, IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), NewYork, NY, USA. **Best Interactive Session Award (#1 in 371 submissions)** 
   7. S. S. Kwak, **H. Kang**, H. Lee, C. Wu (2016) PaperBot: The intelligent paper toy, ACM/IEEE International Conference on Human-Robot Interaction (HRI), Christchurch, New Zealand.
 - **Workshop paper**
   1. **D. Kang**, S. Kim, S. S. Kwak (2018) Social Human-Robot Interaction Design Toolkit, ACM/IEEE International Conference on Human-Robot Interaction (HRI), Chicago, IL, USA.
