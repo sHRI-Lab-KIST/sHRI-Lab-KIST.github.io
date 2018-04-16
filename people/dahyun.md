@@ -16,7 +16,9 @@ Phone: (02)958-4864
 
 ### Research Interests
 
-Human-centered Human-Robot Interaction (HRI) design and intelligent product design
+- Human-centered Human-Robot Interaction (HRI) design 
+  -Social robot design 
+  -intelligent product design
 
 ### Career
 
