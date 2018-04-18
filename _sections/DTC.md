@@ -55,6 +55,7 @@ If you are interested in these sources, Please send mail to the following addres
 #### - Context Reasoner, [Github-Repository](https://github.com/HW-Jeon/Context-Reasoner-full.git)
 #### - Knowledge Management, [Github-Repository](https://github.com/hyeonukbhin/personality_recognition)
 
+<br>
 ### Contact
 #### [J.S. Choi](https://shri-lab-kist.github.io/people/jongsuk) : [e-mail ](cjs@kist.re.kr)
 #### [Y.S. Lim](https://shri-lab-kist.github.io/people/yoonseob) : [e-mail](yslim@kist.re.kr)
