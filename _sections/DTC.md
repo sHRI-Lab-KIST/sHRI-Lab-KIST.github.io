@@ -13,6 +13,7 @@ order: 4
 #### [Korea Institute of Science and Technology](https://www.kist.re.kr)
 #### [sHRI-Lab](https://shri-lab-kist.github.io)
 
+<br>
 ## 1. About  - Diagnosis, Treatment and Care System of Dementia(DTC)
 <img src="../assets/images/project/DTC/target.jpg" width="900">
 
