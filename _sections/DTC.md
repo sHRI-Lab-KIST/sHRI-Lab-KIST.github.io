@@ -34,7 +34,7 @@ order: 4
 <html>
 <head></head>
 <body>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/HpHzefgP3rs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="960" height="540" src="https://www.youtube.com/embed/HpHzefgP3rs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
 <br>
@@ -43,7 +43,7 @@ order: 4
 <html>
 <head></head>
 <body>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/fd4qrVeuXf8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="960" height="540" src="https://www.youtube.com/embed/fd4qrVeuXf8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
 <br>
