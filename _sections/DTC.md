@@ -6,12 +6,12 @@ order: 4
 
 <img src="../assets/images/project/DTC/title.png" width="900">
 
-### [KIST - Official Web site (ENG)](http://dtc.kist.re.kr/eng/researcher/list.php?dcode=R04)
-### [KIST -Official Web site (KOR)](http://dtc.kist.re.kr/kor/researcher/list.php?dcode=R04)
+#### [KIST - Official Web site (ENG)](http://dtc.kist.re.kr/eng/researcher/list.php?dcode=R04)
+#### [KIST -Official Web site (KOR)](http://dtc.kist.re.kr/kor/researcher/list.php?dcode=R04)
 
-### [MyBom Research Team Web site (KOR)](http://www.robot-intelligence.kr/index.php/Main_Page)
-### [Korea Institute of Science and Technology](https://www.kist.re.kr)
-### [sHRI-Lab](https://shri-lab-kist.github.io)
+#### [MyBom Research Team Web site (KOR)](http://www.robot-intelligence.kr/index.php/Main_Page)
+#### [Korea Institute of Science and Technology](https://www.kist.re.kr)
+#### [sHRI-Lab](https://shri-lab-kist.github.io)
 
 ## 1. About  - Diagnosis, Treatment and Care System of Dementia(DTC)
 <img src="../assets/images/project/DTC/target.jpg" width="900">
@@ -37,7 +37,7 @@ order: 4
 <html>
 <head></head>
 <body>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/HpHzefgP3rs"" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/HpHzefgP3rs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
 <br>
