@@ -25,9 +25,6 @@ order: 4
 
 * 서로 다른 치매 증상을 가진 치매 환자들을 돌보는 간병인과 가족 구성워을 위한 적응형 가이드라인을 제공하도록 설계된 지식 기반 시스템을 제안함으로써 복지시설이나 가정에서 향상된 치매 케어 지식을 제안합니다. 제안 된 시스템은 복지시설에서 사용하는 평가 지표와 메뉴얼을 포함합니다. 또한, 일생 중에 발생할 수 있는 가정 환경과 사회적 관계 및 다양한 환자의 상황에 대한 지식을 포함합니다.
 
-</br>
-</br>
-
 * we propose a knowledge base system that is designed to adaptively provide guidelines for caring person with dementia (PwD) with different dementia symptoms, thereby contributing improved care conditions to caregivers and family members at either care facility or home. Proposed system contains diverse knowledge for caring PwD based on general dementia care knowledge and behavioral and psychophysical assessment manual used in dementia care facility in Korea. Also, knowledge on the home environment, social relations and various patient’s situations that can happen during daily life are included.
 
 ## 3. Knowledge Management
