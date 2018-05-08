@@ -1,10 +1,10 @@
 ---
-title: Contact
+title: Yoonseob Lim
 layout: "page"
 hide: True
 ---
 
-![test]({{ site.url }}/assets/images/people/yoonseob.jpeg){: width="200" height="300"}
+![picture](../assets/images/people/yoonseob.jpeg){: width="200" height="300"}
 
 **Ph.D, Senior Researcher**<br>Center for Robotics Research<br>Convergence Research Center for Diagnosis, Treatment and Care System of Dementia<br>Korea Institute of Science and Technology(KIST)<br>
 

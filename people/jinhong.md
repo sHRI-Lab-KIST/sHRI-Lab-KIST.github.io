@@ -1,10 +1,10 @@
 ---
-title: Contact
+title: Jinhong Noh
 layout: "page"
 hide: True
 ---
 
-![test]({{ site.url }}/assets/images/people/jinhong.jpg){: width="200" height="300"}
+![picture](../assets/images/people/jinhong.jpg){: width="200" height="300"}
 
 **Commissioned  Researchers**<br>Korea Institute of Science and Technology<br>Center for Robotics Research
 

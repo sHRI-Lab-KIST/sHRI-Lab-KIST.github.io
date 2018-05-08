@@ -4,7 +4,7 @@ layout: "page"
 hide: True
 ---
 
-![picture]({{ site.url }}/assets/images/people/gyeore.png){: width="200" height="300"}
+![picture](../assets/images/people/gyeore.png){: width="200" height="300"}
 
 **MS-PhD. Student**<br>Kist School, Korea  University of Science and Technology<br>Division of Nano & Information Technology <br>HCI & Robotics<br>Center for Robotics Research
 

@@ -6,6 +6,8 @@ hide: True
 
 
 
+![picture](../assets/images/people/anastasiya.png){: width="200" height="300"}
+
 **Internship Student**<br>Korea Institute of Science and Technology<br>Center for Robotics Research
 
 ### Contact

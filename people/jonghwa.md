@@ -4,7 +4,7 @@ layout: "page"
 hide: True
 ---
 
-![picture]({{ site.url }}/assets/images/people/jonghwa.jpeg){: width="200" height="300"}
+![picture](../assets/images/people/jonghwa.jpeg){: width="200" height="300"}
 
 **M.S. Student**<br>Seoul National University<br>Electrical and Computer Engineering<br>Korea Institute of Science and Technology<br>Center for Robotics Research
 

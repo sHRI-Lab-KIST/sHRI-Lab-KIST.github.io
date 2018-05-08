@@ -1,10 +1,10 @@
 ---
-title: Taemin Choi
+title: "Taemin Choi"
 layout: "page"
 hide: True
 ---
 
-![test]({{ site.url }}/assets/images/people/taemin.png){: width="200" height="300"}
+![picture](../assets/images/people/taemin.png){: width="200" height="300"}
 
 **M.S. Student**<br>Korea University<br>Mechanical Engineering<br>Korea Institute of Science and Technology<br>Center for Robotics Research
 

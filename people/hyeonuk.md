@@ -4,7 +4,7 @@ layout: "page"
 hide: True
 ---
 
-![picture]({{ site.url }}/assets/images/people/hyeonuk.jpg){: width="200" height="300"}
+![picture](../assets/images/people/hyeonuk.jpg){: width="200" height="300"}
 
 **Integrated Cource Student**<br>University of Science and technology<br>Division of Nano & Information Technology(HCI & Robotics)<br>Korea Institute of Science and Technology<br>Center for Robotics Research
 

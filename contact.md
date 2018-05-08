@@ -1,8 +1,6 @@
 ---
-title: Contact
-layout: "page"
-icon: fa-caret-right
-order: 5
+title: "Contact"
+layout: page
 ---
 
 If you are having any problems, any questions or suggestions, feel free to send an e-mail.

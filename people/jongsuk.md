@@ -4,7 +4,7 @@ layout: "page"
 hide: True
 ---
 
-![test]({{ site.url }}/assets/images/people/jongsuk.png){: width="200" height="300"}
+![picture](../assets/images/people/jongsuk.png){: width="200" height="300"}
 
 **Ph.D, Principal Researcher**<br>Head, Center for Robotics Research<br>Korea Institute of Science and Technology(KIST)<br>
 
