@@ -1,7 +1,7 @@
 ---
 title: "SimonPic"
 image: 
-  path: /assets/images/project/SIMONPIC/what_is_simonpic_400_200.png
+  
   thumbnail: /assets/images/project/SIMONPIC/what_is_simonpic_400_200.png
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
