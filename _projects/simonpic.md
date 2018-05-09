@@ -17,7 +17,7 @@ SimonPic project is for the purpose of the implementation of technologies for id
 In this project we develop a robot-assisted management system for promptly coping with abnormal events in classroom environments.
 
 
-* Simon PIC : Sensor network-based In Motion [Perception]  In-Cloud
+* Simon PIC : Sensor network-based In Motion Perception  In-Cloud
 
 
 ## System Structure
