@@ -1,14 +1,14 @@
 ---
 title: "SimonPic"
 image: 
-  
+  path: /assets/images/project/SIMONPIC/what_is_simonpic.png
   thumbnail: /assets/images/project/SIMONPIC/what_is_simonpic_400_200.png
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
 ## What is the SimonPic?
 
-![image]({{ site.url }}/assets/images/project/SIMONPIC/what_is_simonpic.png){: width="900"}
+
 
 SimonPic Project는 복수의 사람에(Multi-users) 대한 다양한 인식(Who, Where, What) 정보를 다중 센서(Multi-sensor)를 기반으로 인식 및 융합하는 기술을 개발하는 프로젝트입니다.
  
