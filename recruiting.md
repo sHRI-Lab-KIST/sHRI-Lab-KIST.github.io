@@ -17,7 +17,7 @@ Office : L8402, International Cooperation Building, KIST(Korea Institute of Scie
 
 Phone : +82-2-958-5618
 
- #### Senior Researcher : [Yoonseob Lim](https://shri-lab-kist.github.io/people/yoonseob)
+#### Senior Researcher : [Yoonseob Lim](https://shri-lab-kist.github.io/people/yoonseob)
 
 Email : yslim@kist.re.kr 
 
