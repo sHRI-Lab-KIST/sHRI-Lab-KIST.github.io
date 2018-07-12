@@ -11,8 +11,8 @@ image:
 
 
 SimonPic Project는 복수의 사람에(Multi-users) 대한 다양한 인식(Who, Where, What) 정보를 다중 센서(Multi-sensor)를 기반으로 인식 및 융합하는 기술을 개발하는 프로젝트입니다.
- 
-  
+
+
 SimonPic project is for the purpose of the implementation of technologies for identification (WHO), behavior (WHAT) and location (WHERE) of human based sensor network fusion program. 
 In this project we develop a robot-assisted management system for promptly coping with abnormal events in classroom environments.
 
@@ -47,7 +47,7 @@ If you are interested in these sources, Please send mail to the following addres
 <html>
 <head></head>
 <body>
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=pt8mgxO08c0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/pt8mgxO08c0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
 <br>
@@ -56,7 +56,7 @@ If you are interested in these sources, Please send mail to the following addres
 <html>
 <head></head>
 <body>
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=3sjWdq6P_hY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/3sjWdq6P_hY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
 <br>
@@ -65,7 +65,7 @@ If you are interested in these sources, Please send mail to the following addres
 <html>
 <head></head>
 <body>
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=pHfZKAX6FWU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/pHfZKAX6FWU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
 
@@ -73,7 +73,7 @@ If you are interested in these sources, Please send mail to the following addres
 <html>
 <head></head>
 <body>
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=tVGpAoH13dI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/tVGpAoH13dI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
 
