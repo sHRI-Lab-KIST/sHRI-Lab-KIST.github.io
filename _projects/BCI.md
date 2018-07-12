@@ -70,7 +70,7 @@ This study is a probabilistic approach to overcome time delay for a mobile robot
 <html>
 <head></head>
 <body>
-<iframe width="640" height="360" src="https://youtube.com/watch?v=L7DKpeUkO6Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/41vgdFtI2x0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>
 <br>
