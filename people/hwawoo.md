@@ -6,13 +6,13 @@ hide: True
 
 ![picture](../assets/images/people/hwawoo.png){: width="300" height="400"}
 
-**Commissioned  Researchers**<br>Center for Robotics Research<br>Convergence Research Center for Diagnosis, Treatment and Care System of Dementia<br>Korea Institute of Science and Technology(KIST)<br>
+**PhD Students**<br>Hanyang University<br>Department of Computer Science<br>Center for Robotics Research<br>Convergence Research Center for Diagnosis, Treatment and Care System of Dementia<br>Korea Institute of Science and Technology(KIST)<br>
 
 ### Contact
 
 Email : feelgood88@kist.re.kr<br>
-Office : L8401, International Cooperation Building, KIST(Korea Institute of Science and Technology) <br>
-Phone : +82-2-958-4864
+Office : L8421, International Cooperation Building, KIST(Korea Institute of Science and Technology) <br>
+Phone : +82-2-958-6815
 
 ### Research Interests
 
