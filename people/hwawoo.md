@@ -33,7 +33,8 @@ Phone : +82-2-958-6815
 
 ### Career
 
-- M.S. in Electronics and Computer Engineering and Robot Engineering  at Hanyang University (2016)
+- Commissioned  Researchers in Convergence Research Center for Diagnosis, Treatment and Care System of Dementia at KIST (2017.03-2018.12)
+- M.S. in Electronics and Computer Engineering and Robot Engineering at Hanyang University (2016)
 
 ### Publications
 
